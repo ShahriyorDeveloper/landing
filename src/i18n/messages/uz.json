@@ -1,0 +1,172 @@
+{
+  "cardsData": {
+    "title1": "Turist makoni",
+    "title2": "Chipta buyurtma qilish",
+    "title3": "Ovqat haqida hamma narsa",
+    "title4": "Qishloq uylar, dam olish zonalari va sanatoriyalar",
+    "title5": "Yotoqxona va mehmonxonalar",
+    "title6": "Turlar",
+    "title7": "Sotish, sotib olish va ijaraga berish",
+    "title8": "Ipoteka xizmatlari",
+    "title9": "Kundalik xizmatlar",
+    "title10": "Shaharlararo taksilar va avtobuslar",
+    "title11": "Poyezdlar",
+    "title12": "Parvozlar",
+    "description1": "Sayohatchilar, blogerlar va gidlar jamoasi uchun platforma, bu yerda siz birgalikda sayohatlar uyushtirishingiz yoki shunchaki tajriba va taassurotlaringizni bo‘lishib daromad olishingiz mumkin.",
+    "description2": "Biz madaniy va ko‘ngilochar tadbirlar uchun chipta buyurtma qilish sohasini rivojlantirmoqdamiz va kengaytirmoqdamiz, jumladan muzeylar, konsertlar, teatrlar, kinolar, festivallar va ko‘rgazmalar uchun yagona madaniy dam olish maydonini yaratmoqdamiz.",
+    "description3": "Bizning gastronomik navigator yordamida oshpazlik san’ati olamini kashf eting: menyularni ko‘ring, stol buyurtma qiling va onlayn yetkazib berishni buyurtma qiling."
+  },
+  "slide" :"Qism",
+  "of" :"dan",
+  "cardsTitles": {
+    "titleFirst": "Ma'lumot portali",
+    "titleSecond": "Turizm",
+    "description1": "Dam olishni istalgan joyda rejalashtirish va onlayn buyurtma qilish.",
+    "titleThird": "Ko‘chmas mulk portali",
+    "description2": "Uyda o‘tirib ko‘chmas mulk masalalarini hal qiling.",
+    "titleFourth": "Transport",
+    "description3": "Chipta buyurtma qilish va sotib olishni onlayn amalga oshiring."
+  },
+  "download": "Yuklab olish",
+  "footer": {
+    "copyryting": "Untitled UI. Barcha huquqlar himoyalangan.",
+    "placeholder": "Elektron pochta manzilingizni kiriting",
+    "subscribe": "Obuna bo‘ling",
+    "titleH3": "Yangiliklardan xabardor bo‘ling",
+    "titleLi1": "Xizmatlar",
+    "titleLi2": "Vizitka yaratish",
+    "titleLi3": "Savollar va javoblar",
+    "titleLi4": "Qo'llab-quvvatlash",
+    "titleLi5": "Kompaniya haqida",
+    "title7": "Shartlar",
+    "title8": "Maxfiylik",
+    "title9": "Cookies"
+  },
+  "headerBlock1": {
+    "description": "Rejalashtirish va dam olish uchun qulay turist makoni",
+    "title": "Turizm"
+  },
+  "headerBlock2": {
+    "description": "Ko‘chmas mulk bozorida keng xizmatlar taklif qilamiz",
+    "title": "Ko‘chmas Mulk"
+  },
+  "headerBlock3": {
+    "description": "Kundalik tashvishlarni yengillashtirish uchun zarur xizmatlar",
+    "title": "Ma'lumot Portali"
+  },
+  "headerBlock4": {
+    "description": "Qiziqarli kontent yaratamiz va foydali materiallarni bo‘lishamiz.",
+    "title": "Eng so‘nggi trendlar bilan biz bilan xabardor bo‘ling!"
+  },
+  "login": {
+    "agree": "‘Davom etish’ tugmasini bosish orqali siz",
+    "offerta": "ommaviy oferta",
+    "phone": "Telefon raqami",
+    "title": "Saytga Kirish"
+  },
+  "loginBtn": "Davom eting",
+  "confirmLoginBtn": "Tasdiqlash",
+  "logOut": {
+    "title": "Saytdan chiqmoqchimisiz?",
+    "description": "Shaxsiy ma'lumotlaringiz saqlanadi va siz telefon raqami orqali yana tizimga kira olasiz.",
+    "logOutBtn": "Chiqish",
+    "cancelBtn": "Bekor qilish",
+    "logOutMessage": "Siz saytga muvaffaqiyatli chiqdingiz"
+  },
+  "phoneOtpActive": "Ichki server xatosi: sizning OTP-kodingiz hali ham aktiv. Iltimos, kuting va qayta urinib ko'ring.",
+  "mainBottom": {
+    "description": "Biz cashback, chegirmalar va aksiyalarni taklif qilamiz",
+    "description2": "Vistca super ilovasida har bir harakat uchun, platformani",
+    "description3": "nafaqat qulay, balki foydali qiladi.",
+    "title": "Siz uchun hammasi"
+  },
+  "mainFirst": {
+    "link": "Batafsil bilib oling",
+    "title1": "Vistca super ilovasida xaridlar va boshqa harakatlar uchun cashback oling — tajribangizni yanada foydali va sodda qiling.",
+    "title2": "harakatlar Vistca super ilovasida",
+    "title3": "tajribangizni yanada foydali va",
+    "title4": "sodda qilamiz."
+  },
+  "mainTitle1": "Narxlarni solishtiring, eng yaxshi takliflarni toping va shaffof shartlardan bahramand bo‘ling",
+  "mainTitle2": "Tez va qulay foydalanish uchun intuitiv interfeys",
+  "mainTitle3": "Bir joyda zarur xizmatlar va mahsulotlarning keng tanlovi — vaqtingizni tejab, hayotingizni yengillashtiradi",
+  "nav_titles": {
+    "title1": "Xizmatlar",
+    "title2": "Vizitka yaratish",
+    "title3": "Qo‘llab-quvvatlash"
+  },
+  "otp": {
+    "description": "Kod ushbu raqamga yuborildi",
+    "title": "SMS kodni kiriting"
+  },
+  "phoneError": {
+    "title": "Telefon raqami noto‘g‘ri kiritildi: 'enter +998-99-999-99-99'"
+  },
+  "phoneSuccessLogin": {
+    "title": "Tabriklaymiz, siz saytga muvaffaqiyatli kirdingiz"
+  },
+  "phoneWarning": {
+    "title": "Foydalanuvchi topilmadi. Ro‘yxatdan o‘ting."
+  },
+  "playStore": {
+    "title1": "Hayotingizni ilovamiz bilan yengillashtiring",
+    "title2": "Biznesingizni boshqarish va rivojlantirish uchun yechimlar"
+  },
+  "popover_block1": {
+    "description1": "Madaniyat, ko‘ngilochar va dam olish tadbirlari haqida xabardor bo‘ling.",
+    "description2": "Onlayn menyular, yetkazib berish, o‘zi olib ketish va stol buyurtmasi.",
+    "description3": "Xizmatlar va mahsulotlarning keng tanlovida tejang.",
+    "title1": "Ma'lumot Portali",
+    "title2": "Gastronomik Markaz",
+    "title3": "Chegirmalar va Aksiyalar"
+  },
+  "popover_block2": {
+    "description1": "Qishloq uylari uchun foydali va qulay onlayn buyurtma!",
+    "description2": "Sizning qulayligingiz uchun keng tanlovdagi kurortlar.",
+    "description3": "Sanatoriyalarni onlayn buyurtma qiling — sog‘liqni saqlash osonlashdi.",
+    "description4": "Qulay va byudjetga mos yashash uchun yotoqxonalarni tanlang.",
+    "description5": "Sayohatingiz uchun mukammal mehmonxonani toping.",
+    "description6": "Qulay qidiruv va keng tur paketlari tanlovi.",
+    "description7": "Sayohatingiz uchun ajoyib takliflar",
+    "title1": "Qishloq Uylar",
+    "title2": "Kurortlar",
+    "title3": "Sanatoriyalar",
+    "title4": "Yotoqxonalar",
+    "title5": "Mehmonxonalar",
+    "title6": "Turlar",
+    "title7": "Chiptalar"
+  },
+  "popover_block3": {
+    "description1": "facere possimus, omnis voluptas assumenda",
+    "description2": "facere possimus, omnis voluptas assumenda",
+    "description3": "facere possimus, omnis voluptas assumenda",
+    "description4": "facere possimus, omnis voluptas assumenda",
+    "description5": "facere possimus, omnis voluptas assumenda",
+    "description6": "facere possimus, omnis voluptas assumenda",
+    "description7": "facere possimus, omnis voluptas assumenda",
+    "description8": "facere possimus, omnis voluptas assumenda",
+    "title1": "Ijara",
+    "title2": "Savdo",
+    "title3": "Tadbirkorlar",
+    "title4": "Ko‘chmas Mulk Agentlari",
+    "title5": "Baholash",
+    "title6": "Reyting",
+    "title7": "Ipoteka",
+    "title8": "Qo‘shimcha xizmatlar"
+  },
+  "popover_headings": {
+    "title1": "Kundalik tashvishlar uchun yechimlar",
+    "title2": "Dam olish uchun kerakli hamma narsa",
+    "title3": "Ko‘chmas mulk haqida hamma narsa bir joyda"
+  },
+  "register": {
+    "birthdate": "Tug‘ilgan sana",
+    "description": "Ajoyib yangi imkoniyatlardan foydalanish uchun ro‘yxatdan o‘ting!",
+    "name": "Ism",
+    "surname": "Familiya",
+    "title": "Ro‘yxatdan o‘tish"
+  },
+  "registrationBtn": {
+    "title": "Kirish"
+  }
+}

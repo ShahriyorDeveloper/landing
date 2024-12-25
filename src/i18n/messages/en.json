@@ -1,0 +1,173 @@
+{
+  "cardsData": {
+    "title1": "Tourist space",
+    "title2": "Ticket booking",
+    "title3": "Everything about food",
+    "title4": "Country houses, recreation areas, and sanatoriums",
+    "title5": "Hostels and hotels",
+    "title6": "Tours",
+    "title7": "Buying, selling, and renting",
+    "title8": "Mortgage services",
+    "title9": "Daily services",
+    "title10": "Intercity taxis and buses",
+    "title11": "Trains",
+    "title12": "Flights",
+    "description1": "A platform for a community of travelers, bloggers, and guides where you can organize joint trips or simply share experiences and impressions to earn.",
+    "description2": "We are developing and expanding the area of ticket booking for cultural and entertainment events, including museums, concerts, theaters, cinemas, festivals, and exhibitions, creating a unified space for cultural leisure.",
+    "description3": "Discover the world of culinary art with our gastronomic navigator: explore menus, book tables, and order delivery online."
+  },
+  "slide" :"Slide",
+  "of" :"of",
+  "cardsTitles": {
+    "titleFirst": "Information portal",
+    "titleSecond": "Tourism",
+    "description1": "Plan and book vacations online wherever you are.",
+    "titleThird": "Real estate portal",
+    "description2": "Solve any real estate issues online without leaving home.",
+    "titleFourth": "Transport",
+    "description3": "Instantly book and purchase tickets online at any time."
+  },
+  "download": "Download",
+  "footer": {
+    "copyryting": "Untitled UI. All rights reserved.",
+    "placeholder": "Enter your email address",
+    "subscribe": "Subscribe",
+    "titleH3": "Stay updated",
+    "titleLi1": "Services",
+    "titleLi2": "Create a business card",
+    "titleLi3": "Questions and answers",
+    "titleLi4": "Support",
+    "titleLi5": "About the company",
+    "title7": "Terms",
+    "title8": "Privacy",
+    "title9": "Cookies"
+  },
+  "headerBlock1": {
+    "description": "A tourist space for convenient planning and relaxation",
+    "title": "Tourism"
+  },
+  "headerBlock2": {
+    "description": "We offer a wide range of services in the real estate market",
+    "title": "Real Estate"
+  },
+  "headerBlock3": {
+    "description": "Essential services for simplifying everyday concerns",
+    "title": "Information Portal"
+  },
+  "headerBlock4": {
+    "description": "We create engaging content and share useful materials.",
+    "title": "Stay updated with the latest trends with us!"
+  },
+  "login": {
+    "agree": "By clicking 'Continue,' you agree to the",
+    "offerta": "public offer",
+    "phone": "Phone number",
+    "title": "Site Login"
+  },
+  "loginBtn": "Continue",
+  "confirmLoginBtn": "Confirm",
+  "logOut" : {
+    "title": "Do you want to leave the site?",
+    "description": "Your personal data will be saved and you can log in again by phone number.",
+    "logOutBtn": "Log Out",
+    "cancelBtn": "Cancel",
+    "logOutMessage": "You have successfully log out the site"     
+  },
+  "mainBottom": {
+    "description": "We offer cashback, discounts, and promotions",
+    "description2": "for every action in the Vistca super app, making the platform",
+    "description3": "not only convenient but also beneficial.",
+    "title": "Everything for you"
+  },
+  
+  "mainFirst": {
+    "link": "Learn more",
+    "title1": "Earn cashback for purchases and other actions in the Vistca super app — we make your experience even more profitable and simpler.",
+    "title2": "actions in the Vistca super app — we make",
+    "title3": "your experience even more profitable and",
+    "title4": "simple."
+  },
+  "mainTitle1": "Compare prices, find the best deals, and enjoy transparent conditions",
+  "mainTitle2": "Intuitive interface for quick and comfortable use",
+  "mainTitle3": "A wide range of essential services and products in one place — saving you time and simplifying your life",
+  "nav_titles": {
+    "title1": "Services",
+    "title2": "Create a business card",
+    "title3": "Support"
+  },
+  "otp": {
+    "description": "The code was sent to the number",
+    "title": "Enter the SMS code"
+  },
+  "phoneError": {
+    "title": "The phone number is entered incorrectly: 'enter +998-99-999-99-99'"
+  },
+  "phoneSuccessLogin": {
+    "title": "Congratulations, you have successfully logged into the site"
+  },
+  "phoneWarning": {
+    "title": "User not found. Register."
+  },
+  "phoneOtpActive" : "Internal server error: your OTP code is still active. Please wait and try again",
+  "playStore": {
+    "title1": "Make your life easier with our app",
+    "title2": "Solutions for managing and growing your business"
+  },
+  "popover_block1": {
+    "description1": "Stay updated on events in culture, entertainment, and leisure.",
+    "description2": "Online menus, delivery, self-pickup, and table reservations.",
+    "description3": "Save on a wide range of services and products.",
+    "title1": "Information Portal",
+    "title2": "Gastronomic Hub",
+    "title3": "Discounts and Promotions"
+  },
+  "popover_block2": {
+    "description1": "Book cottages online with benefit and convenience!",
+    "description2": "A wide selection of resorts for your comfort.",
+    "description3": "Book sanatoriums online — health care has become easier.",
+    "description4": "Choose hostels for comfortable and budget-friendly accommodation.",
+    "description5": "Find the perfect hotel for your trip.",
+    "description6": "Convenient search and a wide range of tour packages.",
+    "description7": "Great deals for your journey",
+    "title1": "Country Houses",
+    "title2": "Resorts",
+    "title3": "Sanatoriums",
+    "title4": "Hostels",
+    "title5": "Hotels",
+    "title6": "Tours",
+    "title7": "Tickets"
+  },
+  "popover_block3": {
+    "description1": "facere possimus, omnis voluptas assumenda",
+    "description2": "facere possimus, omnis voluptas assumenda",
+    "description3": "facere possimus, omnis voluptas assumenda",
+    "description4": "facere possimus, omnis voluptas assumenda",
+    "description5": "facere possimus, omnis voluptas assumenda",
+    "description6": "facere possimus, omnis voluptas assumenda",
+    "description7": "facere possimus, omnis voluptas assumenda",
+    "description8": "facere possimus, omnis voluptas assumenda",
+    "title1": "Rent",
+    "title2": "Sale",
+    "title3": "Developers",
+    "title4": "Realtors",
+    "title5": "Appraisal",
+    "title6": "Rate",
+    "title7": "Mortgage",
+    "title8": "Additional services"
+  },
+  "popover_headings": {
+    "title1": "Solutions for everyday concerns",
+    "title2": "Everything you need for leisure",
+    "title3": "All about real estate in one place"
+  },
+  "register": {
+    "birthdate": "Date of birth",
+    "description": "Register to use awesome new features!",
+    "name": "Name",
+    "surname": "Surname",
+    "title": "Registration"
+  },
+  "registrationBtn": {
+    "title": "Login"
+  }
+}
