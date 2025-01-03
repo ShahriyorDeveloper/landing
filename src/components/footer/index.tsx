@@ -13,7 +13,7 @@ const Footer: FC = () => {
   return (
     <div className="">
       <div className="w-[90%] m-auto ">
-        <div className="flex justify-between items-center max-sm:justify-center max-sm:flex-wrap">
+        <div className="flex justify-between items-center max-sm:justify-center max-md:flex-col">
           <div className="mt-6 mb-[64px] max-sm:mb-[24px] max-sm:text-center">
             <Image src={Logo} alt="logo" className="max-sm:mx-auto" />
             <ul className="mt-8 max-sm:flex max-sm:flex-col text-footer_text_color text-[16px] font-bold">
